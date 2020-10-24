@@ -1,0 +1,2 @@
+Cinema has been a part of the entertainment industry for a long time. A good movie is a way to escape reality and live through a variety of emotions.
+This project helps manage a cinema theatre, sell tickets, check available seats, see sales statistics, and more.
